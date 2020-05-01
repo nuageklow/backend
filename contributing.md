@@ -9,7 +9,7 @@ These instructions have been used on the following operating systems:
 * Mac OS
 * Windows 10 Pro (Windows 10 Home is supported by Docker Desktop at the moment)
 
-### Prerequisites
+### Fundamental Knowledge
 
   Contributors are expected to have fundamental knowledge of the [technologies used for CBV3](README.md#technologies-used).
   (recommendations of tutorials?)
